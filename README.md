@@ -1,4 +1,4 @@
-# Windows-11-Bypass-TPM
+# Windows 11 Bypass TPM
 
 Step 1. Download this reg file. [https://github.com/quickfever/Windows-11-Bypass-TPM/releases/download/1.0/Windows-11-bypass-TPM.reg](https://github.com/quickfever/Windows-11-Bypass-TPM/releases/download/1.0/Windows-11-bypass-TPM.reg)
 
