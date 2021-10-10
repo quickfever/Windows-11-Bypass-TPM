@@ -1,4 +1,4 @@
 ## Bypass Windows 11 TPM 2.0 and Secure Boot requirment by quickfever.com
 
-
-Windows Registry Editor Version 5.00 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig] “BypassTPMCheck”=dword:00000001 “BypassSecureBootCheck”=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig] 
+"BypassTPMCheck"=dword:00000001 "BypassSecureBootCheck"=dword:00000001
